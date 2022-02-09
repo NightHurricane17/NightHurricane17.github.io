@@ -6,11 +6,10 @@ body {
 } 
 
 Button {
-    color: rgb(27, 150, 91);
-    background-image: url(line.jpg);
-    background-repeat: repeat;
+    color: #1b965b;
+    background: #1d2c0f;
     font-style: oblique;
-    border-radius: 8px;
+    border-radius: 12px;
     border-style: none;
     box-sizing: border-box;
     color: hsl(140, 69%, 40%);
